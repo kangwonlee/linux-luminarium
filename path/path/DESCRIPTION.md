@@ -27,6 +27,6 @@ Thus, you must make it so that `/challenge/run` also can't find the `rm` command
 따라서, `/challenge/run`에서도 `rm` 명령을 찾을 수 없도록 설정해야 합니다!
 
 Keep in mind: `/challenge/run` will be a _child process_ of your shell, so you must apply the concepts you learned in [Shell Variables](https://pwn.college/linux-luminarium/variables/) to mess with its `PATH` variable!
-명심하세요: `/challenge/run`은 셸의 _자식 프로세스_이므로 셸 변수(https://pwn.college/linux-luminarium/variables/)에서 배운 개념을 적용하여 `PATH` 변수를 조작해야 합니다!
+명심하세요: `/challenge/run`은 셸의 _자식 프로세스_이므로 셸 변수에서 배운 개념을 적용하여 `PATH` 변수를 조작해야 합니다!
 If you don't succeed, and the flag gets deleted, you will need to restart the challenge to try again!
 성공하지 못하고 flag가 삭제되면 챌린지를 다시 시작하여 다시 시도해야 합니다!
