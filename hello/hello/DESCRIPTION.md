@@ -1,5 +1,5 @@
-In this challenge, you will invoke your first command!
-When you type a command and hit enter, the command will be invoked, as so:
+이 챌린지에서는 첫 번째 명령어를 호출합니다! 
+명령어를 입력하고 Enter 키를 누르면 다음과 같이 명령어가 호출됩니다:
 
 ```console
 hacker@dojo:~$ whoami
@@ -7,8 +7,8 @@ hacker
 hacker@dojo:~$
 ```
 
-Here, the user executed the `whoami` command, which simply prints the username (`hacker`) to the terminal.
-When the command terminates, the shell once again displays the prompt, ready for the next command.
+여기서 사용자는 'whoami' 명령을 실행하여 사용자 이름('해커')을 터미널에 출력하면 됩니다.
+명령이 종료되면 셸에 다음 명령을 위한 준비가 된 프롬프트가 다시 한 번 표시됩니다.
 
-In this level, invoke the `hello` command to get the flag!
-Keep in mind: commands in Linux are case sensitive: `hello` is different from `HELLO`.
+이 레벨에서 '안녕하세요' 명령을 호출하여 깃발을 가져오세요!
+명심하기: 리눅스의 명령어는 대소문자를 구분합니다: 'hello'는 'HELLO'와 다릅니다.
