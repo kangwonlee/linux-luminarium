@@ -1,5 +1,4 @@
-You can also _move_ files around with the `mv` command.
-The usage is simple:
+mv 명령으로 파일을 이동할 수도 있습니다. 간단한 사용방법을 보여드리겠습니다.
 
 ```console
 hacker@dojo:~$ ls
@@ -13,6 +12,5 @@ hacker@dojo:~$ cat your-file
 PWN!
 hacker@dojo:~$
 ```
-
-This challenge wants you to move the `/flag` file into `/tmp/hack-the-planet` (do it)!
-When you're done, run `/challenge/check`, which will check things out and give the flag to you.
+이번에는 /flag 파일을 /tmp/hack-the-plane으로 옮기는 것을 필요로 합니다.
+성공되면 /challenge/check를 실행하여 검사후 플래그를 줍니다.
