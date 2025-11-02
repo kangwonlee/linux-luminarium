@@ -17,7 +17,7 @@ Keep in mind: commands in Linux are case sensitive: `hello` is different from `H
 
 ## 파일 설명
 
-이 챌린지에서는 여러분이 첫 번째 **명령어(command)** 를 실행하게 됩니다! 터미널에 명령어를 입력하고 Enter 키를 누르면, 해당 명령어가 실행됩니다.
+이 과제에서는 여러분이 첫 번째 **명령어(command)** 를 실행하게 됩니다! 터미널에 명령어를 입력하고 Enter 키를 누르면, 해당 명령어가 실행됩니다.
 
 ```bash
 hacker@dojo:~$ whoami
@@ -25,6 +25,6 @@ hacker
 hacker@dojo:~$
 
 
-위 예시에서 사용자는 whoami 명령어를 실행했고, 이는 단순히 사용자 이름(hacker)을 터미널에 출력합니다. 명령어가 종료되면, 셸(shell)은 다시 프롬프트를 표시해 다음 명령어 입력을 기다립니다.
+위 예시에서 사용자는 whoami 명령어를 실행했고, 이는 사용자 이름(hacker)을 터미널에 출력합니다. 명령어가 종료되면, 셸(shell)은 다시 프롬프트를 표시해 다음 명령어 입력을 기다립니다.
 
-이 레벨에서는 hello 명령어를 실행해서 플래그(flag)를 얻으세요! 주의할 점: 리눅스(Linux)의 명령어는 대/소문자를 구분합니다. hello와 HELLO는 서로 다릅니다.
+이 레벨에서 hello 명령어를 실행하여 플래그(flag)를 얻으세요! 주의할 점: 리눅스(Linux)의 명령어는 대/소문자를 구분합니다. hello와 HELLO는 서로 다릅니다.
