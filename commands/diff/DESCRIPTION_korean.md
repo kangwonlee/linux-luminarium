@@ -36,7 +36,7 @@ hacker@dojo:~$ diff old new
 이는 첫 번째 파일의 1번 줄 뒤에 두 번째 파일에 새로운 줄이 있음을 나타냅니다. (`1a2` 는 "1번 파일의 1번 줄 뒤에 2번 파일의 2번 줄이 추가됨."을 의미합니다.).
 
 이제 도전해 보세요!
-`/challenge`: 에 두 개의 파일이 있습니다.
+`/challenge` 에 두 개의 파일이 있습니다.
 - `/challenge/decoys_only.txt` 에는 100개의 가짜 플래그가 있습니다.
 - `/challenge/decoys_and_real.txt` 에는 같은 100개의 가짜 플래그와 진짜 플래그가 있습니다.
 
