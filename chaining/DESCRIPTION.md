@@ -1,5 +1,4 @@
-In the piping module, you've explored the concept of using several commands, with data flowing between them via pipes, to accomplish something slightly more complex than the individual commands can do.
-Of course, this concept also applies independent of the data transfer: sometimes, you might want to run several commands in quick succession to achieve some cumulative effect.
+파이핑 모듈에서, 개인 명령어가 할 수 있는 것보다 약간 더 복잡한 무언가를 수행하기 위해서, 파이프를 통해서 여러 명령어를 데이터가 흐르도록 하며, 당신은 몇몇 명령어들을 사용하는 개념을 탐구해왔다. 물론, 이 개념은 데이터 전송과 별개로 적용된다: 때때로, 당신은 누적된 효과를 얻기 위해 몇몇 명령어를 빠르게 연속 실행하여 작동시키고 싶을 것이다.
 
-This module will cover a few ways, aside from piping, that commands can be chained.
-By the end, you'll be on your way to writing _shell scripts_!
+이 모듈은 파이핑 외에서 명령어가 연쇄 실행되는 몇몇 방법을 다룰 것이다.
+마지막에는, _셸 스크립트_를 당신만의 방법으로 작성할 수 있게 될 것이다!
