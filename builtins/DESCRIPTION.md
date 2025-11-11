@@ -1,12 +1,12 @@
-Many see shells as shallow: simply small wrappers around useful utilities.
-This is true to an extent, but ignoring the power of the shell can hamper you when you try to accomplish complex things in Linux.
-In this module, we will delve into using the _shell_ itself, as opposed to the commandline tools that Linux offers.
+많은 사람들은 셸을 피상적이라고 간주한다: 즉 유용한 유틸리티 주변을 감싼 간단하게 작은 래퍼.
+이것은 어느정도 사실이지만, 셸의 힘을 무시하는 것은 당신이 리눅스에서 복잡한 작업을 수행하려 할 때 당신을 방해할 수 있다.
+이러한 모듈에서, 우리는 리눅스가 제공하는 명령줄 도구들과 달리, _셸_ 그 자체를 사용하는 것에 대해서 탐구할 것이다.
 
-Some questions that we will explore:
+우리가 탐구할 몇몇 질문들:
 
-- How would you print out a file without using `cat`, `more`, and friends?
-- How to do math, number base conversion (especially relevant for raw memory operations and hacking).
-- How to implement complex functionality right in your shell!
+- 어떻게 당신이 `cat`, `more`, 그리고 friends를 사용하지 않고 파일을 출력하나?
+- 어떻게 산술 연산과 진수 변환을 하나? (특히 원시 메모리 조작과 해킹에 대해서 중요)
+- 어떻게 당신의 셸 내에서 직접 복잡한 기능을 구현하나?
 
-We will learn how to use the functionality built into the shell itself (e.g., builtins and other functionality).
-Now, go forth and learn!
+우리는 셸 구 자체에 내장된 기능들을 어떻게 사용하는지에 대해 배울 것이다. (예, 빌트인 그리고 기타 기능들)
+이제, 나아가서 배우자!
