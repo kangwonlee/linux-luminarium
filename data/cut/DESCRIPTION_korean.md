@@ -25,15 +25,6 @@ hacker@dojo:~$ cut -d " " -f 3 scores.txt
 hacker@dojo:~$
 ```
 
-The `-d` argument specifies the column _delimiter_ (how columns are separated).
-In this case, it's a space character.
-Of course, it has to be in quotes here so that the shell knows that the space is an argument rather than a space separating other arguments!
-The `-f` argument specifies the _field_ number (which column to extract).
-
-In this challenge, the `/challenge/run` program will give you a bunch of lines with random numbers and single characters (characters of the flag) as columns.
-Use `cut` to extract the flag characters, then pipe them to `tr -d "\n"` (like the previous level!) to join them together into a single line.
-Your solution will look something like `/challenge/run | cut ??? | tr ???`, with the `???` filled out.
-
 `-d` 인수는 열 _구분 기호_ (열을 구분하는 방식) 를 지정합니다.
 이 경우에는 공백 문자입니다.
 물론, 셸이 공백이 다른 인수를 구분하는 공백이 아니라 인수임을 알 수 있도록 따옴표로 묶어야 합니다!
