@@ -2,7 +2,7 @@
 명령어를 입력하고 Enter 키를 누르면 다음과 같이 명령어가 호출됩니다:
 
 ```console
-hacker@dojo:~$ whoami;
+hacker@dojo:~$ whoami
 hacker;
 hacker@dojo:~$
 ```
