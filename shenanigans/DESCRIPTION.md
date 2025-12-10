@@ -1,2 +1,2 @@
-This module will deepen your knowledge of Linux through some shenanigans.
-Understanding how features of a system impact its security is a great way to understand its inner workings.
+이 모듈은 약간의 장난스러운 기법을 통해 당신의 리눅스의 이해를 더욱 깊에 할 것입니다.
+시스템의 기능이 어떻게 보안에 영향을 미치는지를 이해하는 것은 그 내부 동작을 이해하는 훌륭한 방법입니다. 
